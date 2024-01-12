@@ -1,6 +1,9 @@
 Art Gallery Adventure
+
 Video Demo: https://youtu.be/wq6_CEENGFQ?si=q_g-uhBQ0k6b5ZtZ
+
 Description:
+
 In my final year project, I ventured into the realm of virtual reality and interactive storytelling by developing a captivating Unity project that seamlessly blends a dynamic desert terrain with an immersive art gallery. The project not only showcases my proficiency in coding character movements and camera controls but also incorporates features like informative painting displays and interactive audio experiences, creating a unique and engaging user journey.
 
 Character and Camera Control: The foundation of the project lies in the creation of a versatile third-person character with responsive movements. Using a combination of Unity's scripting capabilities and the Input System, I implemented controls for walking, running, and sprinting through the expansive desert terrain. By integrating the keyboard inputs (W, A, S, D) with additional keys (Ctrl and Shift), users can seamlessly switch between different movement speeds, enhancing the overall user experience.
