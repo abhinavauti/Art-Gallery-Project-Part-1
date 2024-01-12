@@ -1,4 +1,4 @@
-Art Gallery Adventure
+Art Gallery Adventure(OnGoing)
 
 Video Demo: https://youtu.be/wq6_CEENGFQ?si=q_g-uhBQ0k6b5ZtZ
 
